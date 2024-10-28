@@ -160,7 +160,8 @@ body {
 
         /* LIBRARY FOOTER LINE */
 
-/* .footer {
+
+.footer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -168,10 +169,10 @@ body {
 }
 
 .line {
-    height: 400px;
+    height: 500px;
     width: 80%;
     opacity: 0.5;
-} */
+}
 
 
                             /* 2. MAIN-CONTENT */
