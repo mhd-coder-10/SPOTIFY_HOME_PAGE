@@ -1,5 +1,5 @@
 
-                                             /*  CSS OF 2PROJECT */
+                                             /*  CSS CODE */
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -175,6 +175,7 @@ body {
 }
 
 
+
                             /* 2. MAIN-CONTENT */
                             
 .main-content {
@@ -309,10 +310,6 @@ body {
     margin-top: 2.4rem;
 }
 
-
-
-
-
                             /* 3. MUSIC-PLAYER */
 
 .music-player {
@@ -332,10 +329,7 @@ body {
     align-items: center;
 }
 
-    /* ---- */
-
 .image {
-
     margin: 0.3rem 0.3rem;
     width: 25%
 }
@@ -346,8 +340,6 @@ body {
     border: none;
     border-radius: 4px;
 }
-
-    /* ----- */
 
 .singer {
     width: 65%;
@@ -370,10 +362,6 @@ body {
     font-size: 0.85rem;
 }
 
-
-
-    /* ----- */
-
 .likes {
     width: 10%;
     opacity: 0.7;
@@ -388,8 +376,6 @@ body {
 }
 
 
-
-
         /* 2. PLAYER */
 
 .player {
@@ -402,8 +388,6 @@ body {
     align-items: center;
     justify-content: center;
 }
-
-/* ---- */
 
 
 .player-icon {
@@ -426,8 +410,6 @@ body {
 }
 
 
-/* ---- */
-
 .playback-bar {
     display: flex;
     justify-content: center;
@@ -439,12 +421,6 @@ body {
     font-size: 1rem;
     opacity: 0.6;
     padding-right: 0.4rem ;
-}
-
-.total-time {
-    font-size: 1rem;
-    opacity: 0.6;
-    padding-left: 0.4rem;
 }
 
 .progress-bar {
@@ -461,7 +437,6 @@ body {
     opacity: 0.92;
 }
 
-
 .progress-bar::-webkit-slider-thumb {
     appearance: none;
     background-color: rgb(50, 242, 50);
@@ -472,6 +447,11 @@ body {
 
 }
 
+.total-time {
+    font-size: 1rem;
+    opacity: 0.6;
+    padding-left: 0.4rem;
+}
 
 
         /* 3. CONTROLL */
@@ -518,7 +498,3 @@ body {
     margin-top: -0.26rem;
 }
 
-
-
-
-                        /* ______________________________________ */
