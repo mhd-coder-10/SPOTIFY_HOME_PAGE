@@ -1,0 +1,4 @@
+
+# SPOTIFY HOME PAGE CREATED BY USING JUST HTML & CSS
+
+This Is My First Mini Fronted Project.
