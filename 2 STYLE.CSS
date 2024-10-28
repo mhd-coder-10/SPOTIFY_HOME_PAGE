@@ -20,7 +20,7 @@ body {
 
 
 
-                                                 /* 1. SIDEBAR */
+                             /* 1. SIDEBAR */
 
 .sidebar { 
     width: 21rem;
@@ -157,12 +157,10 @@ body {
     border-radius: 1rem;
 
 }
-     
 
         /* LIBRARY FOOTER LINE */
 
-
-.footer {
+/* .footer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -173,9 +171,7 @@ body {
     height: 400px;
     width: 80%;
     opacity: 0.5;
-}
-
-
+} */
 
 
                             /* 2. MAIN-CONTENT */
@@ -220,7 +216,7 @@ body {
     height: 2rem;
     width: 2rem;
     padding-left: 1rem;
-   
+
 }
 
 .sticky-nav-1 {
